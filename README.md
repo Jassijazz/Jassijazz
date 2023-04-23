@@ -21,9 +21,6 @@ I m Full Stack Web Developer<br>I am currently honing my skills in web developme
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jassijazz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Jassijazz&icon=2&color=6)](https://visitcount.itsvg.in)
 
